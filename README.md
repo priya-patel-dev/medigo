@@ -1,21 +1,21 @@
 # Medigo
 
-A modern AI-powered prescription safety and healthcare assistance platform designed to reduce medication risks and improve clinical decision support.
+AI-powered prescription safety and clinical decision support platform designed to reduce medication risks and improve patient outcomes.
 
 ## Overview
-Medigo helps users and healthcare stakeholders evaluate prescriptions more safely by combining digital workflows with AI-assisted insights. The project focuses on making prescription review more transparent, reliable, and user-friendly.
+Medigo is a modern healthcare-focused application that helps clinicians and care teams review prescriptions more safely by combining digital workflows with AI-assisted insight. The platform is built around trust, usability, and safer medication decisions.
 
 ## Features
 - AI-assisted prescription review
-- Safety-first patient medication checks
-- Clean and responsive healthcare UI
-- Clinical workflow support
-- Smart decision support experience
+- Medication safety checks and risk awareness
+- Clean healthcare workflow experience
+- Clinical decision support for better review practices
+- User-friendly interface for healthcare stakeholders
 
 ## Tech Stack
 - Frontend: React + TypeScript + Vite
 - Styling: Tailwind CSS
-- State Management: React app logic / UI state
+- State management: React app logic / UI state
 - Deployment: Vercel
 
 ## Run Locally
@@ -25,10 +25,10 @@ npm run dev
 ```
 
 ## Project Goal
-To improve medication safety by combining healthcare UX with intelligent validation and support systems.
+To improve medication safety by making prescription review more transparent, reliable, and supportive for healthcare teams.
 
-## Contribution
-This project was designed as a practical AI healthcare interface that prioritizes usability, trust, and patient safety.
+## My Contribution
+This project focuses on building a practical AI healthcare interface that prioritizes usability, patient safety, and clinician confidence.
 
 ## Status
-Active prototype / portfolio project.
+Active prototype / portfolio project
